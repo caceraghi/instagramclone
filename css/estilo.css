@@ -55,3 +55,7 @@ body {
     padding: 1.3rem 0;
     border: 1px solid lightgrey;
 }
+
+.grupo:nth-child(1) {
+    min-height: 19rem;
+}
