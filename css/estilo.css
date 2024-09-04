@@ -110,7 +110,7 @@ body {
     width: 10rem;
     background-size: cover;
 }
-
+/*
 .app-download:nth-child(1) {
     background-image: url('/img/apple.png');
 }
@@ -118,4 +118,4 @@ body {
 .app-download:nth-child(2) {
     background-image: url('/img/google.png');
 }
-
+*/
